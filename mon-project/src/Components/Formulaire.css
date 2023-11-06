@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.lebonguide.com/bundles/website/images/category/large/nature.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    animation: fadeBackground 2s alternate infinite;
+}
+
+@keyframes fadeBackground {
+    0% {
+        opacity: 0.7; /* Opacité de départ */
+    }
+    100% {
+        opacity: 1; /* Opacité finale */
+    }
+}
+
+#titre {
+    text-align: center;
+}
+
+.container {
+    
+    padding: 20px;
+    padding-top: 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    text-align: left;
+    max-width: 1900px;
+    width: 700px;
+    margin: 0 auto;
+   
+    padding-right: 40px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 20px 0;
+}
+
+.form-element {
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-right: 10px;
+    position: relative;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-right: 10px;
+    position: relative;
+}
+
+.submit-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
+
+.link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+.App {
+  font-family: Arial, sans-serif;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.day-mode {
+  background-color: white;
+  color: black;
+}
+
+.night-mode {
+  background-color: black;
+  color: white;
+}
