@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yahia73/react-deploy.git/static/css/main.fa88e5d2.css",
+    "main.js": "/Yahia73/react-deploy.git/static/js/main.864d6735.js",
+    "static/js/787.ea9042fe.chunk.js": "/Yahia73/react-deploy.git/static/js/787.ea9042fe.chunk.js",
+    "index.html": "/Yahia73/react-deploy.git/index.html",
+    "main.fa88e5d2.css.map": "/Yahia73/react-deploy.git/static/css/main.fa88e5d2.css.map",
+    "main.864d6735.js.map": "/Yahia73/react-deploy.git/static/js/main.864d6735.js.map",
+    "787.ea9042fe.chunk.js.map": "/Yahia73/react-deploy.git/static/js/787.ea9042fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa88e5d2.css",
+    "static/js/main.864d6735.js"
+  ]
+}
