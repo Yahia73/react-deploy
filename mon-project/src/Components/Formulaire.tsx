@@ -60,7 +60,7 @@ const Formulaire: React.FC = () => {
                         <label htmlFor="entreprise">Nom de l'entreprise :</label>
                         <input type="text" name="entreprise" id="entreprise" placeholder="Quel est le nom de l'entreprise"/>
                     </div>
-                    {/* Ajoutez d'autres champs ici */}
+                    
                 </section>
             </main>
             <footer>
